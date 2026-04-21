@@ -5,6 +5,7 @@ matplotlib
 seaborn
 scikit-learn
 imbalanced-learn
+imblearn
 torch
 catboost
 lightgbm
