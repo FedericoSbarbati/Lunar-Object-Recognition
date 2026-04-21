@@ -1,5 +1,5 @@
 """PyTorch neural network for stellar classification."""
-
+import torch
 import torch.nn as nn
 
 
